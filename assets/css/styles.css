@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 
 body{
-    background-color: black;
+    background-color: #ffffff;
     font-family: raleway;
 }
 
@@ -14,16 +14,20 @@ body{
 }
 
 .descripcion > div > img{
-    width: 100%;
+    width: 600px;
     height: 100%;
     padding-left: 15rem;
-    padding-top: 2rem;
+    padding-top: 4em;
     
 }
 
 .descripcion2{
     padding-right: 15rem;
     
+}
+
+.img-perfil {
+    width: 300px;
 }
 
 .titulo{
